@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![Node.js](https://img.shields.io/badge/node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/typescript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=FFD700)
-![Java](https://img.shields.io/badge/java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![PHP](https://img.shields.io/badge/php-1a1a1a?style=for-the-badge&logo=php&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/git-1a1a1a?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/github-1a1a1a?style=for-the-badge&logo=github&logoColor=FFD700)
 
