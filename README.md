@@ -17,7 +17,7 @@
 
 # 👤 About Me
 
-I’m a programmer seeking knowledge and have been self-taught since I was **14 years old**.
+I’m a programmer seeking knowledge and have been self-taught since I was **15 years old**.
 I am currently focused on **BackEnd and Others content**.
 
 ---
@@ -26,7 +26,7 @@ I am currently focused on **BackEnd and Others content**.
 
 Where I spend most of my time coding:
 
-![Kali Linux](https://img.shields.io/badge/kali_linux-1a1a1a?style=for-the-badge\&logo=kalilinux\&logoColor=FFFFFF)
+![Fedora](https://img.shields.io/badge/Fedora-1a1a1a?style=for-the-badge\&logo=fedora\&logoColor=FFFFFF)
 ![Windows 10](https://img.shields.io/badge/windows-1a1a1a?style=for-the-badge\&logo=windows10\&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-1a1a1a?style=for-the-badge\&logo=visualstudiocode\&logoColor=FFFFFF)
 
