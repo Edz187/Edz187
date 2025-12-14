@@ -26,7 +26,7 @@ I am currently focused on **BackEnd and Others content**.
 
 Where I spend most of my time coding:
 
-![Fedora](https://img.shields.io/badge/Fedora-1a1a1a?style=for-the-badge\&logo=fedora\&logoColor=FFFFFF)
+![Fedora](https://img.shields.io/badge/Fedoraa-1a1a1a?style=for-the-badge\&logo=fedora\&logoColor=FFFFFF)
 ![Windows 10](https://img.shields.io/badge/windows-1a1a1a?style=for-the-badge\&logo=windows10\&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-1a1a1a?style=for-the-badge\&logo=visualstudiocode\&logoColor=FFFFFF)
 
