@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-1a1a1a?style=for-the-badge\&logo=javascript\&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/node.js-1a1a1a?style=for-the-badge\&logo=node.js\&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-1a1a1a?style=for-the-badge\&logo=typescript\&logoColor=FFFFFF)
-![GO](https://img.shields.io/badge/go-1a1a1a?style=for-the-badge&logo=golang&logoColor=FFFFFF)
+![GOLANG](https://img.shields.io/badge/go-1a1a1a?style=for-the-badge&logo=golang&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-1a1a1a?style=for-the-badge\&logo=git\&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-1a1a1a?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 
