@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Edson
 
-![My Profile](https://github-stats-alpha.vercel.app/api/?username=Edz187\&cc=1a0f0f\&tc=FF6A00\&ic=FF4500\&bc=121415)
+![My Profile](https://github-stats-alpha.vercel.app/api/?username=Edz187\&cc=121415\&tc=FF6A00\&ic=FF4500\&bc=121415)
 
 ---
 
