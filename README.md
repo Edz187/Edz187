@@ -1,31 +1,22 @@
-# 👋 Hi! My name is Edson
+# 👋 Olá! Meu nome é Edson
 
-![My Profile](https://github-stats-alpha.vercel.app/api/?username=Edz187&cc=121415&tc=EDEDED&ic=0494F7&bc=0494F7)
-
----
-
-### 🚀 Tools I use
-
-![JavaScript](https://img.shields.io/badge/JavaScript-121415?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-121415?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![TypeScript](https://img.shields.io/badge/TypeScript-121415?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Git](https://img.shields.io/badge/Git-121415?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-121415?style=for-the-badge&logo=github&logoColor=EDEDED)
+![Meu Perfil](https://github-stats-alpha.vercel.app/api/?username=Edz187&cc=ffffff&tc=000000&ic=000000&bc=ffffff)
 
 ---
 
-## 👤 About Me
+### 🚀 Ferramentas que utilizo
 
-I’m a programmer seeking knowledge and have been self-taught since I was **15 years old**.  
-Currently focused on **Back-end development, bots, and automation systems**.
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
 
----
+## 🛠️ Ambiente de trabalho
 
-## 🛠️ Workspace
+Onde passo a maior parte do tempo programando:
 
-Where I spend most of my time coding:
+![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=000000)
+![VS_Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 
-![Windows](https://img.shields.io/badge/Windows-121415?style=for-the-badge&logo=windows&logoColor=0078D6)
-![VS Code](https://img.shields.io/badge/VS_Code-121415?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0494F7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
