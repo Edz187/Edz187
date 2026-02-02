@@ -25,7 +25,6 @@ Currently focused on **Back-end development, bots, and automation systems**.
 
 Where I spend most of my time coding:
 
-![Fedora](https://img.shields.io/badge/Fedora-121415?style=for-the-badge&logo=fedora&logoColor=51A2DA)
 ![Windows](https://img.shields.io/badge/Windows-121415?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![VS Code](https://img.shields.io/badge/VS_Code-121415?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
