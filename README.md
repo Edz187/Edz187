@@ -10,6 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
 
 ## 🛠️ Ambiente de trabalho
