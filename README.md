@@ -15,7 +15,6 @@
 
 ## 🛠️ Ambiente de trabalho
 
-Onde passo a maior parte do tempo programando:
 
 ![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=000000)
 ![VS_Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
